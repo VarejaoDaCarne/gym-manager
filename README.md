@@ -7,13 +7,13 @@
 </h1>
 
 <h1>
-    <img src="/github/home-instructors.PNG"  width="49%" height"100%">
-    <img src="/github/create-instructors.PNG"  width="49%" height"100%">
+    <img src="/github/home-instructors.png"  width="49%" height"100%">
+    <img src="/github/create-instructors.png"  width="49%" height"100%">
 </h1>
 
 <h1>
-    <img src="/github/show-instructors.PNG" width="49%" height"100%">
-    <img src="/github/edit-instructors.PNG" width="49%" height"100%">
+    <img src="/github/show-instructors.png" width="49%" height"100%">
+    <img src="/github/edit-instructors.png" width="49%" height"100%">
 </h1>
 
 <h3 align="center">
