@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="public/github/gym-manager.gif" height="50%">
+    <img src="/github/gym-manager.gif" height="50%">
 </h1>
 
 <h1>
@@ -12,8 +12,8 @@
 </h1>
 
 <h1>
-    <img src="public/github/show-instructors.PNG" width="49%" height"100%">
-    <img src="public/github/edit-instructors.PNG" width="49%" height"100%">
+    <img src="./github/show-instructors.PNG" width="49%" height"100%">
+    <img src="./github/edit-instructors.PNG" width="49%" height"100%">
 </h1>
 
 <h3 align="center">
